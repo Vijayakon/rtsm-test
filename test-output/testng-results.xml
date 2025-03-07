@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-07T00:06:11 EST" name="Default suite" finished-at="2025-03-07T00:06:39 EST" duration-ms="28060">
+    <groups>
+    </groups>
+    <test started-at="2025-03-07T00:06:11 EST" name="Default test" finished-at="2025-03-07T00:06:39 EST" duration-ms="28060">
+      <class name="VijayaThota.VeevaAuto.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:VijayaThota.VeevaAuto.LoginTest@6a6cb05c]" started-at="2025-03-07T00:06:11 EST" name="setUp" finished-at="2025-03-07T00:06:16 EST" duration-ms="5516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SwtichtoPopup()[pri:0, instance:VijayaThota.VeevaAuto.LoginTest@6a6cb05c]" started-at="2025-03-07T00:06:16 EST" name="SwtichtoPopup" finished-at="2025-03-07T00:06:16 EST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwtichtoPopup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:VijayaThota.VeevaAuto.LoginTest@6a6cb05c]" started-at="2025-03-07T00:06:16 EST" name="tearDown" finished-at="2025-03-07T00:06:17 EST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:VijayaThota.VeevaAuto.LoginTest@6a6cb05c]" started-at="2025-03-07T00:06:17 EST" name="setUp" finished-at="2025-03-07T00:06:21 EST" duration-ms="3891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLogin()[pri:0, instance:VijayaThota.VeevaAuto.LoginTest@6a6cb05c]" started-at="2025-03-07T00:06:21 EST" name="testValidLogin" finished-at="2025-03-07T00:06:39 EST" duration-ms="17817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:VijayaThota.VeevaAuto.LoginTest@6a6cb05c]" started-at="2025-03-07T00:06:39 EST" name="tearDown" finished-at="2025-03-07T00:06:39 EST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- VijayaThota.VeevaAuto.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
