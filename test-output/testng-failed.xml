@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="VijayaThota.VeevaAuto.LoginTest">
+      <class name="VijayaThota.VeevaAuto.LoginTestNew">
         <methods>
+          <include name="subjectPageValidation"/>
           <include name="tearDown"/>
+          <include name="adminTab"/>
           <include name="setUp"/>
-          <include name="testValidLogin"/>
         </methods>
-      </class> <!-- VijayaThota.VeevaAuto.LoginTest -->
+      </class> <!-- VijayaThota.VeevaAuto.LoginTestNew -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
